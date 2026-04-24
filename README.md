@@ -6,6 +6,9 @@
 
 A **Retrieval-Augmented Generation (RAG)** based application that enables users to upload PDF documents and ask context-aware questions using an AI assistant powered by Mistral.
 
+![Upload Screenshot](Screenshots/RAG1.png)
+![Upload Screenshot](Screenshots/RAG2.png)
+
 #### 🧠 RAG Workflow (Visual)
 ![Upload Screenshot](Screenshots/RAGflowchart.png)
 
@@ -29,24 +32,24 @@ A **Retrieval-Augmented Generation (RAG)** based application that enables users 
 
 ## ✨ Features
 
-🔹 📄 Upload and process PDF documents
-🔹 ✂️ Intelligent text chunking
-🔹 🧠 Semantic search using embeddings
-🔹 📦 Persistent vector database (ChromaDB)
-🔹 🤖 AI responses using Mistral LLM
-🔹 💬 Streamlit Web UI + CLI chatbot
-🔹 ⚡ Efficient retrieval with MMR
+- 📄 Upload and process PDF documents  
+- ✂️ Intelligent text chunking  
+- 🧠 Semantic search using embeddings  
+- 📦 Persistent vector database (ChromaDB)  
+- 🤖 AI responses using Mistral LLM  
+- 💬 Streamlit Web UI + CLI chatbot  
+- ⚡ Efficient retrieval with MMR  
 
 ---
 
 ## 🛠️ Tech Stack
 
-🔹Python
-🔹LangChain
-🔹ChromaDB
-🔹HuggingFace Embeddings
-🔹Mistral AI
-🔹Streamlit
+-🔹Python
+-🔹LangChain
+-🔹ChromaDB
+-🔹HuggingFace Embeddings
+-🔹Mistral AI
+-🔹Streamlit
 
 ---
 
