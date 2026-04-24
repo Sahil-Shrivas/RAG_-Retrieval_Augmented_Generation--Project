@@ -6,6 +6,9 @@
 
 A **Retrieval-Augmented Generation (RAG)** based application that enables users to upload PDF documents and ask context-aware questions using an AI assistant powered by Mistral.
 
+#### 🧠 RAG Workflow (Visual)
+![Upload Screenshot](Screenshots/RAGflowchart.png)
+
 ---
 
 ## 🚀 Demo
@@ -21,11 +24,6 @@ A **Retrieval-Augmented Generation (RAG)** based application that enables users 
 
 #### 🔹Answer
 ![Upload Screenshot](Screenshots/Screenshot4.png)
-
----
-
-## 🧠 RAG Workflow (Visual)
-![Upload Screenshot](Screenshots/RAGflowchart.png)
 
 ---
 
