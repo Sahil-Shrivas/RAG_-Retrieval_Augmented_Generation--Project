@@ -85,8 +85,8 @@ A **Retrieval-Augmented Generation (RAG)** based application that enables users 
   ## ⚙️ Setup Instructions
 
     1️⃣ Clone the Repository
-      git clone https://github.com/your-username/your-repo-name.git
-      cd your-repo-name
+      git clone https://github.com/Sahil-Shrivas/RAG_Retrieval_Augmented_Generation-Project.git
+      cd https://github.com/Sahil-Shrivas/RAG_Retrieval_Augmented_Generation-Project.git
 
     2️⃣ Install Dependencies
       pip install -r requirements.txt
