@@ -44,12 +44,12 @@ A **Retrieval-Augmented Generation (RAG)** based application that enables users 
 
 ## 🛠️ Tech Stack
 
--🔹Python
--🔹LangChain
--🔹ChromaDB
--🔹HuggingFace Embeddings
--🔹Mistral AI
--🔹Streamlit
+- Python
+- LangChain
+- ChromaDB
+- HuggingFace Embeddings
+- Mistral AI
+- Streamlit
 
 ---
 
