@@ -13,8 +13,14 @@ A **Retrieval-Augmented Generation (RAG)** based application that enables users 
 #### 🔹 Upload & Processing
 ![Upload Screenshot](Screenshots/Screenshot1.png)
 
-#### 🔹 Question Answering
+#### 🔹 Ask Question
 ![Chat Screenshot](Screenshots/Screenshot2.png)
+
+#### 🔹 Answer
+![Upload Screenshot](Screenshots/Screenshot3.png)
+
+#### 🔹Answer
+![Upload Screenshot](Screenshots/Screenshot4.png)
 
 ---
 
