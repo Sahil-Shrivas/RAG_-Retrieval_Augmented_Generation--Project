@@ -31,13 +31,13 @@ A **Retrieval-Augmented Generation (RAG)** based application that enables users 
 
 ## ✨ Features
 
-📄 Upload and process PDF documents
-✂️ Intelligent text chunking
-🧠 Semantic search using embeddings
-📦 Persistent vector database (ChromaDB)
-🤖 AI responses using Mistral LLM
-💬 Streamlit Web UI + CLI chatbot
-⚡ Efficient retrieval with MMR
+🔹 📄 Upload and process PDF documents
+🔹 ✂️ Intelligent text chunking
+🔹 🧠 Semantic search using embeddings
+🔹 📦 Persistent vector database (ChromaDB)
+🔹 🤖 AI responses using Mistral LLM
+🔹 💬 Streamlit Web UI + CLI chatbot
+🔹 ⚡ Efficient retrieval with MMR
 
 ---
 
