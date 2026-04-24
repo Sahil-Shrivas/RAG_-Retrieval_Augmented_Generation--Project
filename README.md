@@ -10,8 +10,6 @@ A **Retrieval-Augmented Generation (RAG)** based application that enables users 
 
 ## 🚀 Demo
 
-### 📸 Application Screenshots
-
 #### 🔹 Upload & Processing
 ![Upload Screenshot](Screenshots/Screenshot1.png)
 
@@ -21,7 +19,7 @@ A **Retrieval-Augmented Generation (RAG)** based application that enables users 
 ---
 
 ## 🧠 RAG Workflow (Visual)
-
+![Upload Screenshot](Screenshots/RAGflowchart.png)
 
 ---
 
